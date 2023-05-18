@@ -1,0 +1,40 @@
+body {
+    background-image: url(../Imagem/Torre\ de\ Pisa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right top;
+}
+
+/* .titulo_da_pag {
+    font-size: xx-large;
+    background-color: white;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    margin-top: -1.5%;
+    margin-left: -1%;
+} */
+
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    height: 10%;
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container > ul {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+}
