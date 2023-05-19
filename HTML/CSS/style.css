@@ -12,7 +12,7 @@ nav .container-menu-titulo {
     margin-top: -2.5%;
     margin-left: -1%;
     left: 1%;
-    color: #5d7599;
+    color: #ffca37;
     
 }
 
@@ -41,12 +41,15 @@ nav ul li a {
     padding: 10px 20px;
     text-decoration: none;
     font-size: 25px;
-    color:#5d7599;
+    color:#ffca37;
     border-radius: 35px;
     transition: 0.3s;
 }
 
 nav ul li a:hover {
-    background-color:#aac7f1;
+    background-color:#aac8f175;
     text-decoration: none;
 }
+/* #699ae4 /*
+/* #5d7599 /*
+/* #aac7f1 /*
