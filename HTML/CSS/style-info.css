@@ -4,6 +4,7 @@ body {
     background-size: cover;
     background-position: right top;
 }
+
 nav .container-menu-titulo {
     font-size: 25px;
     background-color: transparent;
@@ -62,24 +63,4 @@ nav ul li a:hover {
     font-size: 200%;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(57, 64, 70);
-}
-
-.Info_Torre {
-    background-color: #ffca3705;
-    padding: 50px;
-    border: 1px solid #ffffff;
-    border-radius: 15px; 
-    margin-top: 5%;
-    margin-left: 10%;
-    width: 20%;
-    font-size: 200%;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    color: rgb(57, 64, 70);
-}
-
-.body-info {
-    background-image: url(../Imagem/Torre\ de\ Pisa.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: right top;
 }
