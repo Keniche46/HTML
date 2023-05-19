@@ -50,6 +50,16 @@ nav ul li a:hover {
     background-color:#aac8f175;
     text-decoration: none;
 }
-/* #699ae4 /*
-/* #5d7599 /*
-/* #aac7f1 /*
+
+.caixa_de_texto {
+    background-color: #ffca3705;
+    padding: 50px;
+    border: 1px solid #ffffff;
+    border-radius: 15px; 
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 20%;
+    font-size: 200%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(57, 64, 70);
+}
